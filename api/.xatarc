@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://anki-clone-rdmqju.eu-west-1.xata.sh/db/anki-clone",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
