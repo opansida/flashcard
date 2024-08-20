@@ -46,10 +46,6 @@ A cross-platform flashcard learning application built with React Native, Express
     npm start
     ```
 
-## Testing
+## photos
 
-This project uses GitHub Actions for continuous integration. Automated tests are run on every push and pull request to the `main` branch.
 
-## License
-
-This project is licensed under the MIT License.
