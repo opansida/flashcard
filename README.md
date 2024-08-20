@@ -49,4 +49,9 @@ A cross-platform flashcard learning application built with React Native, Express
 
 ## Images
 
+![sets](https://raw.githubusercontent.com/opansida/flashcard/main/images/2024-08-20%2018.44.56.png)
+![learning](https://raw.githubusercontent.com/opansida/flashcard/main/images/2024-08-20%2018.44.49.png)
+![view](https://raw.githubusercontent.com/opansida/flashcard/main/images/2024-08-20%2018.44.34.png)
+![storage](https://raw.githubusercontent.com/opansida/flashcard/main/images/2024-08-20%2018.44.42.png)
+
 
