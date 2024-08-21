@@ -1,6 +1,6 @@
 # Flashcard Learning ios App
 
-A cross-platform flashcard learning application built with React Native, Express, and Xata PostgreSQL. This app allows users to create, edit, and study flashcards on both iOS and Android devices.
+A  flashcard learning application built with React Native, Express, and Xata PostgreSQL. This app allows users to create, edit, and study flashcards on iOS devices.
 
 ## Features
 
